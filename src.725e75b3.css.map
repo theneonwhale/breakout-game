@@ -1,1 +1,0 @@
-{"version":3,"sources":["sass/common.scss"],"names":[],"mappings":"AAAA,EACE,SAAA,CACA,SAEF,OACE,eAAA,CACA,aAAA,CACA","file":"src.725e75b3.css","sourceRoot":"../src","sourcesContent":["* {\n  padding: 0;\n  margin: 0;\n}\ncanvas {\n  background: #eee;\n  display: block;\n  margin: 0 auto;\n}\n"]}
